@@ -1,0 +1,22 @@
+
+.FirstFox{
+    border: 4px solid orange;
+    align-items: center;
+    width: 300px;
+    height: 200px;
+    border-style: solid;
+    border-width: thick;
+    
+}
+
+.SecondFox{
+    border: 4px solid orange;
+    align-items: center;
+    width: 300px;
+    height: 410px;
+    border-style: dashed;
+    border-width: 5px;
+    background-color: #FFFF00;
+
+
+}

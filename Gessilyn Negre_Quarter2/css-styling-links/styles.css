@@ -1,0 +1,32 @@
+a:link{ 
+    color: blue;
+    text-decoration: none;
+    
+}
+
+a:visited{
+    color: green;
+}
+
+a:hover{
+    color: purple;
+    text-decoration: underline;
+}
+
+a:active{
+    color: black;
+}
+
+a.button1{
+    display: inline-block;
+    background-color: blue;
+    color: white;
+    padding: 10px, 20px;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+a.button1:hover{
+    background-color: orange;
+    font-size: xx-large;
+}
